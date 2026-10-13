@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.0.0.zip",
-  "notes": "First release."
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.2.0.zip",
+  "notes": "One link per product instead of two. The regular Amazon link already opens the app on a phone, so the confusing amzn:// link is gone."
 }
