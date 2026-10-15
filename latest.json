@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.3.0.zip",
-  "notes": "Setup now names the Creators API correctly and warns about Amazon's 10-sales requirement up front."
+  "version": "1.4.0",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.4.0.zip",
+  "notes": "Honest link wording, cleaner links, and a new guide on getting your affiliate links to actually convert."
 }
