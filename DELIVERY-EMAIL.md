@@ -39,9 +39,14 @@ That's it. Claude takes over from there and walks you through everything.
 
 ## Two things so nothing feels broken
 
-**The first setup is quiet for a few minutes.** Claude installs a browser
-component behind the scenes and it looks like nothing is happening. It's
-working. Let it finish.
+**The first setup involves some waiting, and that's normal.** Claude installs a
+few things your Mac needs. If your Mac has never been used for this kind of
+thing, you may see an Apple pop-up asking to install "command line developer
+tools" — click **Install** and let it run.
+
+Between that and a browser component Claude downloads, expect **20 to 40
+minutes** for the first setup, most of it just waiting while things download.
+Your actual hands-on time is about 15 minutes. You can walk away and come back.
 
 **Amazon is the slow part, and it's first.** Sale Scout needs Creators API
 access from your Amazon Associates account. It's free, but Amazon reviews it
@@ -93,8 +98,11 @@ Thank you for being one of the first.
 >
 > **"Set up Sale Scout"**
 >
-> Claude does the rest — you'll never type a command. The first setup is quiet
-> for a few minutes while it installs a browser component; that's normal.
+> Claude does the rest — you'll never type a command.
+>
+> First setup takes 20–40 minutes, but most of that is downloads running in the
+> background. You may see an Apple pop-up about "command line developer tools" —
+> click Install and let it go. Your hands-on time is about 15 minutes.
 >
 > Heads up: Amazon's Creators API access is the slow part and Claude starts you
 > there first. It needs 10+ qualifying sales in your Associates account in the
