@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.8.0.zip",
-  "notes": "Setup now ends with a clear list of everything you can change, and asks which email you use."
+  "version": "1.9.0",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.0.zip",
+  "notes": "Important: stops a scheduling setup that could quietly use up your Claude allowance. Update if you scheduled a daily run."
 }
