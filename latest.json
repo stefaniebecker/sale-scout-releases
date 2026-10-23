@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.1.zip",
-  "notes": "Important: stops a scheduling setup that could quietly use up your Claude allowance, and tells you sooner when a new version is out."
+  "version": "1.9.2",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.2.zip",
+  "notes": "Important: stops a scheduling setup that could quietly use up your Claude allowance, tells you sooner when a new version is out, and adds the licence."
 }
