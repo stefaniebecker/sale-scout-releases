@@ -13,6 +13,34 @@ Hi [first name],
 
 Thank you! Sale Scout is attached — and your download link is below.
 
+---
+
+## ⏱️ Do this first — it takes two minutes
+
+Before you install anything, check you can get Amazon API access. It's the one
+part we don't control, and it's much better to know now.
+
+**1.** Go to **associates.amazon.com** and sign in as the main account holder
+(not a team member's login — Amazon only lets the primary owner do this).
+
+**2.** Click **Tools** → **Creators API**.
+
+**3.** See if you can register.
+
+**Three things Amazon requires:**
+
+• Your Associates account has been fully accepted (not still provisional)
+• You're signed in as the primary account owner
+• **At least 10 qualifying sales in the last 30 days**
+
+If you can register — brilliant, do it now. Approval takes a few days and
+starting now means the clock runs while you set everything else up.
+
+If you can't, email me at hello@stefaniebeckerdigital.com and tell me what it
+said. Depending on the reason, it may just be a form away, or it may mean
+waiting until your sales catch up. Either way I'd rather sort it with you than
+have you stuck.
+
 Here's the whole setup. **You won't type a single command.**
 
 ### Step 1 — Download and unzip the file
