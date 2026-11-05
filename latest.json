@@ -1,5 +1,5 @@
 {
-  "version": "1.9.4",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.4.zip",
-  "notes": "The exact click-by-click route to Amazon's Creators API page, which is genuinely hard to find."
+  "version": "1.9.5",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.5.zip",
+  "notes": "Amazon codes now hand over by file instead of the chat, a reminder if you stall waiting on Amazon approval, and a yearly rotation nudge."
 }
