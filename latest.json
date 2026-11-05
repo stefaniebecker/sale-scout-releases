@@ -1,5 +1,5 @@
 {
-  "version": "1.9.5",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.5.zip",
-  "notes": "Amazon codes now hand over by file instead of the chat, a reminder if you stall waiting on Amazon approval, and a yearly rotation nudge."
+  "version": "1.9.6",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.6.zip",
+  "notes": "Claude now opens the document for your Amazon codes instead of asking you to make one, and always tells you exactly what to type next."
 }
