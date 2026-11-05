@@ -2,6 +2,10 @@
 
 Plain text. Paste straight into Stan.
 
+Set Stan's "Download name" field to `sale-scout.zip`. It's independent of the
+uploaded file, so it stays right across every version — and this email no longer
+names a filename at all, so neither can drift.
+
 No Amazon registration steps — Claude walks them through that one click at a
 time, which works far better than a list in an email that reads like homework.
 
@@ -23,15 +27,14 @@ Thank you! Sale Scout is attached — and your download link is below. 🎉
 
 HERE'S ALL YOU DO
 
-Step 1 — Download and unzip the file. You'll get a folder called sale-scout.
+Step 1 — Download and unzip the file. Leave it in your Downloads folder.
 
 Step 2 — Open the Claude Code app. Not Claude in your browser — the desktop
 app, from claude.ai/download. You'll need a paid Claude plan.
 
 Step 3 — Copy and paste this to Claude, exactly:
 
-"Please install the Sale Scout skill. The file is sale-scout.zip in my Downloads
-folder."
+"Please install the Sale Scout skill. The zip file is in my Downloads folder."
 
 Step 4 — Then paste this:
 
