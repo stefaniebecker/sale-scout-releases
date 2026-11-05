@@ -1,5 +1,5 @@
 {
-  "version": "1.9.3",
-  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.3.zip",
-  "notes": "Clearer, step-by-step help getting your Amazon access, including the exact menu path and the three reasons Amazon can block it."
+  "version": "1.9.4",
+  "url": "https://raw.githubusercontent.com/stefaniebecker/sale-scout-releases/main/sale-scout-1.9.4.zip",
+  "notes": "The exact click-by-click route to Amazon's Creators API page, which is genuinely hard to find."
 }

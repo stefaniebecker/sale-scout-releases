@@ -20,12 +20,21 @@ Thank you! Sale Scout is attached — and your download link is below.
 Before you install anything, check you can get Amazon API access. It's the one
 part we don't control, and it's much better to know now.
 
-**1.** Go to **associates.amazon.com** and sign in as the main account holder
-(not a team member's login — Amazon only lets the primary owner do this).
+It's well hidden, so here's the exact route:
 
-**2.** Click **Tools** → **Creators API**.
+**1.** Go to **amazon.com**, signed in as the main account holder (not a team
+member's login — Amazon only lets the primary owner do this).
 
-**3.** See if you can register.
+**2.** **Top left corner** — click **SiteStripe**, the bar that says
+*Influencers and Associates*.
+
+**3.** That opens your Associates home page.
+
+**4.** **Top right corner** — click the **hamburger menu** (three stacked lines).
+
+**5.** Click **Tools**, then **Creators API**.
+
+**6.** See if you can register.
 
 **Three things Amazon requires:**
 
